@@ -1,0 +1,1 @@
+"""Energy forecast prototype modules."""
